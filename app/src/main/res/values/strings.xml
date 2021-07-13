@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cartoon Kids</string>
+    //APPLICATION_ID
+    //original
+<!--    <string name="APPLICATION_ID">ca-app-pub-3377795912216048~6751993766</string>-->
+    //test APPLICATION_ID
+    <string name="APPLICATION_ID">ca-app-pub-3940256099942544~3347511713</string>
+    //original APPLICATION_ID fb
+    <string name="APPLICATION_ID_fb">1153583415140210</string>
+    // banner original ads
+    <string name="admob_test_banner">ca-app-pub-3377795912216048~1764951468</string>
+
+<!--    -->
+    // banner test ad
+<!--    <string name="admob_test_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    //facebook test ads
+<!--    <string name="fb_banner_test">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+
+
+    //facebook original ads
+    <string name="fb_banner_test">549524506079624_549524949412913</string>
+
+</resources>

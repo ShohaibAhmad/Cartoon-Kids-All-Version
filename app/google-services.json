@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768478341294",
+    "project_id": "cartoon-kids-version-version-2",
+    "storage_bucket": "cartoon-kids-version-version-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768478341294:android:dd50a66d33691e5b2d653f",
+        "android_client_info": {
+          "package_name": "com.promoteprovider.cartoonkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768478341294-dei85c2pt51ib62v4mkth07t9t4euh15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtpYOGzwao-svLzSirC5q-dazN6V_m8no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768478341294-dei85c2pt51ib62v4mkth07t9t4euh15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
